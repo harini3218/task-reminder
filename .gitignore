@@ -1,0 +1,6 @@
+/target/
+.idea/
+*.log
+
+# DO NOT PUSH SECRETS
+application.properties
