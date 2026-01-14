@@ -1,6 +1,13 @@
+# Maven
 /target/
-.idea/
+
+# IDE
+.classpath
+.project
+.settings/
+
+# Logs
 *.log
 
-# DO NOT PUSH SECRETS
-application.properties
+# Secrets
+src/main/resources/application.properties

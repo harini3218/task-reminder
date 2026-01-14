@@ -1,9 +1,0 @@
-com\example\taskreminder\scheduler\TaskReminderScheduler.class
-com\example\taskreminder\controller\TaskReportController.class
-com\example\taskreminder\repository\TaskRepository.class
-com\example\taskreminder\service\EmailService.class
-com\example\taskreminder\controller\TaskController.class
-com\example\taskreminder\csv\TaskcsvService.class
-com\example\taskreminder\model\Task.class
-com\example\taskreminder\service\TaskService.class
-com\example\taskreminder\TaskReminderApplication.class
