@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Add Task</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+    <h2>Add New Task</h2>
+
+    <form id="taskForm">
+        <input type="text" id="title" placeholder="Task Title" required>
+        <input type="email" id="email" placeholder="Email" required>
+        <input type="datetime-local" id="dueDate" required>
+
+        <button type="submit" class="btn">Save Task</button>
+    </form>
+
+    <p id="message"></p>
+
+    <a href="index.html" class="btn back">⬅ Back</a>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
