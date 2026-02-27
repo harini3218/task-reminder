@@ -23,6 +23,21 @@ A Spring Boot application to manage tasks and send email reminders when tasks ar
 
 ---
 
+## Frontend
+
+Simple web interface built using:
+- HTML
+- CSS
+- JavaScript
+
+Location:
+frontend/index.html
+
+To run:
+Open index.html in browser after starting backend server.
+
+---
+
 ## How to Run the Project Locally
 
 ### Prerequisites
